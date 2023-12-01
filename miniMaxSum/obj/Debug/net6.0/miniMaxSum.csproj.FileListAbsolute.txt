@@ -1,0 +1,14 @@
+E:\miniMaxSum\miniMaxSum\bin\Debug\net6.0\miniMaxSum.exe
+E:\miniMaxSum\miniMaxSum\bin\Debug\net6.0\miniMaxSum.deps.json
+E:\miniMaxSum\miniMaxSum\bin\Debug\net6.0\miniMaxSum.runtimeconfig.json
+E:\miniMaxSum\miniMaxSum\bin\Debug\net6.0\miniMaxSum.dll
+E:\miniMaxSum\miniMaxSum\bin\Debug\net6.0\miniMaxSum.pdb
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\miniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\miniMaxSum.AssemblyInfoInputs.cache
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\miniMaxSum.AssemblyInfo.cs
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\miniMaxSum.csproj.CoreCompileInputs.cache
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\miniMaxSum.dll
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\refint\miniMaxSum.dll
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\miniMaxSum.pdb
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\miniMaxSum.genruntimeconfig.cache
+E:\miniMaxSum\miniMaxSum\obj\Debug\net6.0\ref\miniMaxSum.dll
