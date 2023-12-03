@@ -23,8 +23,8 @@ class Result
                 oddList.Add(arr[i]);
 
         }
-        int minSum = sum - minNum;
-        int maxSum = sum - maxNum;
+        int minSum = sum - maxNum;
+        int maxSum = sum - minNum;
 
         Console.WriteLine(minSum + " " + maxSum);
         Console.WriteLine("Even numbers in List " + string.Join(",",evenlist));
