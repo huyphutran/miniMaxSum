@@ -6,7 +6,7 @@ class Result
     public static void miniMaxSum(List<int> arr) {
 
         int sum = 0;
-        int minNum = 0;
+        int minNum = int.MaxValue;
         int maxNum = 0;
         List<int> evenlist = new List<int>();
         List<int> oddList = new List<int>();
